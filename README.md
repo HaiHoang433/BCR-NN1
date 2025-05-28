@@ -695,4 +695,5 @@ plt.show()
 ```
 
 Result:
+
 ![image](https://github.com/user-attachments/assets/72dbcc30-7d2a-4331-9cb0-1c2e3742ed25)
